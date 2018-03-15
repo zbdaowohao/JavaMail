@@ -1,0 +1,6 @@
+#发送邮箱地址
+sendMail_host=smtp.163.com
+#发送邮箱用户名
+sendMail_userName=houbowen470@163.com
+#发送邮箱密码
+sendMail_password=610Winkill
